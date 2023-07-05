@@ -6,8 +6,8 @@ from datetime import datetime, timedelta
 REPO_PATH = r'C:\Users\alexm\Desktop\py'
 COMMIT_MESSAGE = 'Hack the contribution graph'  
 START_DATE = '2023-07-06'  
-DAYS = 50
-DAYS_TO_SKIP = 2
+DAYS = 70
+DAYS_TO_SKIP = 1
 TEMP_FILE_NAME = 'temp.txt'  
 BRANCH_NAME = 'main'
 
